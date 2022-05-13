@@ -74,6 +74,9 @@ body{
      
      
 }
+.input-search::placeholder{
+    color: rgba(255, 250, 250, 0.755);
+}
 .bg-icon ,.dots{
     position: fixed;
     z-index: 1;
